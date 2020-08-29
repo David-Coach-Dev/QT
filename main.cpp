@@ -1,5 +1,6 @@
 #include "mainwindow.h"
 //#include <iostream.h>
+//prueba
 #include "stdio.h"
 //#include "conio.h"
 //#include <dos.h>
